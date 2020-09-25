@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "title":"Kill Bill",
+        "director":"Quentin Tarantino",
+        "año":"2003",
+        "rating":"8.1"
+    },
+    {
+        "id":"2",
+        "title":"Avatar",
+        "director":"James Cameron",
+        "año":"2009",
+        "rating":"7.8"
+    }
+
+    
+]
